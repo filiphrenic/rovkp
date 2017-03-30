@@ -1,0 +1,7 @@
+Zadatak:
+	1) Grozd se sastoji od 8 računala
+	2) NameNode je na 10.19.4.52
+	3) 7 DataNode, svi su u funkciji
+	4) veličina grozda je 3TiB
+	5) Veličina bloka je 128MiB
+
