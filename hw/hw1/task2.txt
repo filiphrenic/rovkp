@@ -1,0 +1,4 @@
+Size: 391MB
+Lines: 8481553
+Blocks: 391/128*3 ~ 9 blocks
+Time: ~ 10-15 seconds
